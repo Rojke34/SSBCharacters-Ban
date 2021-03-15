@@ -1,0 +1,6 @@
+framework module Pods_SSBCharacters_Ban {
+  umbrella header "Pods-SSBCharacters Ban-umbrella.h"
+
+  export *
+  module * { export * }
+}
